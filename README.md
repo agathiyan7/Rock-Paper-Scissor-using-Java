@@ -1,1 +1,2 @@
-# Rock-Paper-Scissor-using-Java
+import java.util.Scanner;
+import java.util.Random;
